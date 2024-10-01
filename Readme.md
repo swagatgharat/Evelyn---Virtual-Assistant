@@ -1,8 +1,9 @@
-EVELYN - Virtual Assistant
+# EVELYN - Virtual Assistant
 
 This repository contains the code for EVELYN, a basic web-based virtual assistant. The assistant interacts with users through voice commands and responds using speech synthesis. The project leverages modern web technologies, including HTML, CSS, and JavaScript.
+<br><br>
 
-Features:
+## Features:
 1. Voice Interaction
 Voice Commands: The assistant can respond to voice commands, including opening websites like Google, YouTube, and Instagram.
 Information Requests: Users can ask for information, such as the current time or date, and the assistant will provide it.
@@ -17,8 +18,9 @@ Central Layout: Features a black background, a central image of the assistant, a
 4. Speech Synthesis and Recognition
 Read-Aloud Feature: Utilizes the browser’s speech synthesis capabilities to read aloud responses to user commands.
 Speech Recognition: Recognizes and processes user speech to execute various tasks based on voice commands.
+<br><br>
 
-Uses:
+## Uses:
 1. Personal Assistant:
 Serve as a simple virtual assistant for daily tasks like setting reminders, checking the weather, or managing schedules.
 
@@ -33,8 +35,9 @@ Offer fun interactions by playing music, telling jokes, or providing trivia base
 
 5. Home Automation:
 Integrate with smart home devices to control lighting, temperature, and security systems through voice commands.
+<br><br>
 
-DEMO:
+## DEMO:
 
 https://github.com/user-attachments/assets/834fc573-6774-4831-b37e-983233f97bad
 
