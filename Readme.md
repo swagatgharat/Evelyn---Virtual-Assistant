@@ -33,3 +33,8 @@ Offer fun interactions by playing music, telling jokes, or providing trivia base
 
 5. Home Automation:
 Integrate with smart home devices to control lighting, temperature, and security systems through voice commands.
+
+DEMO:
+
+https://github.com/user-attachments/assets/834fc573-6774-4831-b37e-983233f97bad
+
